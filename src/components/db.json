@@ -1,0 +1,28 @@
+{
+  "Blogs": [
+    {
+      "title": "My First Blog",
+      "author": "Yonas",
+      "body": "What Do we want? Justice!! When Do we want it? NOW!!",
+      "id": 1
+    },
+    {
+      "title": "My Other Blog",
+      "author": "Brook",
+      "body": "The King and his men stole the queen from her bed.",
+      "id": 2
+    },
+    {
+      "title": "How I met your mother",
+      "body": "This is the story of how I met your mother",
+      "author": "Brook",
+      "id": 3
+    },
+    {
+      "title": "Who is the Greatest Man Ever?",
+      "body": "Satoshi Nakamoto",
+      "author": "Yonas",
+      "id": 4
+    }
+  ]
+}
